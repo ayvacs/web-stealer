@@ -1,4 +1,4 @@
-# site-stealer
+# web-stealer
 
 A simple Python script to download the entire contents of a specific domain or subdomain.
 
